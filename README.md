@@ -10,5 +10,5 @@
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="35" width="45" 
-    src="https://imgur.com/fzO49W2">
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
