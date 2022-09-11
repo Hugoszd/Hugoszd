@@ -24,3 +24,6 @@
 <a href = "mailto:hugodiscord@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 <a href="https://steamcommunity.com/id/hugoo171/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
   </div> 
+
+  ##
+  
