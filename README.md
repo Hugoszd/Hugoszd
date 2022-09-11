@@ -9,8 +9,8 @@
 </div>
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Android" height="35" width="45" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+    <img align="center" alt="AndroidStudio" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Java" height="35" width="45" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Kotlin" height="35" width="45" 
