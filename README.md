@@ -1,4 +1,5 @@
 ### Oi, eu sou o Hugo, é um prazer te receber aqui! 👋
+Atualmente estudando Java.
 
 <div align="left">
   <a href="https://github.com/hugoszd">
