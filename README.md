@@ -13,7 +13,7 @@ Atualmente estudando Java.
     <img align="center" alt="AndroidStudio" height="35" width="45" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Java" height="35" width="45" 
-    src="https://i.imgur.com/XQFpGaM.png">
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Kotlin" height="35" width="45" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   </div>
