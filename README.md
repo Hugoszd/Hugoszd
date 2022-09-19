@@ -9,14 +9,37 @@ Atualmente estudando Java.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoszd&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+
+<div>Tecnologias que estudo e uso atualmente:</div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="AndroidStudio" height="35" width="45" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Android" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+    <img align="center" alt="Git" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Java" height="35" width="45" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Kotlin" height="35" width="45" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   </div>
+
+##
+
+<div>Tecnologias que pretendo aprender futuramente:</div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="AWS" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Dart" height="35" width="45" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="Flutter" height="35" width="45" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Postgresql" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="spring" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+
+  </div>
+
 
 ##
 <div>
