@@ -35,8 +35,10 @@ Atualmente estudando Java.
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Postgresql" height="35" width="45" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="spring" height="35" width="45" 
+    <img align="center" alt="Spring" height="35" width="45" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img align="center" alt="Swift" height="35" width="45" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 
   </div>
 
