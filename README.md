@@ -43,7 +43,12 @@ Atualmente estudando Java.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 
   </div>
-
+  
+##
+<div>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoszd&layout=compact" alt="Languages"/> 
+</p> </div>
 
 ##
 <div>
