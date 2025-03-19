@@ -1,5 +1,5 @@
 ### Oi, eu sou o Hugo, é um prazer te receber aqui! 👋
-Atualmente estudando Java.
+Atualmente estudando Banco de dados relacionais.
 
 <div align="left">
   <a href="https://github.com/hugoszd">
@@ -58,7 +58,6 @@ Atualmente estudando Java.
 <a href="https://steamcommunity.com/id/hugoo171/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
 
 ##
-![Snake animation](https://github.com/Hugoszd/Hugoszd/blob/output/github-contribution-grid-snake.svg)  
 
 </div> 
 
