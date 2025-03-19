@@ -27,8 +27,6 @@ Atualmente estudando Banco de dados relacionais.
 
 <div>Tecnologias que pretendo aprender futuramente:</div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="AWS" height="35" width="45" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="C++" height="35" width="45" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Dart" height="35" width="45" 
